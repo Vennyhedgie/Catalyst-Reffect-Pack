@@ -4,7 +4,7 @@ A more visible UI element for Elementalist's Catalyst Elite Specialization
 <img width="407" height="192" alt="image" src="https://github.com/user-attachments/assets/8920a4a1-2586-4a35-945b-0d502baaa480" />
 <img width="412" height="185" alt="image" src="https://github.com/user-attachments/assets/225e38f5-658c-481e-b94b-e14d770fb15a" />
 
-If Empowering Auras is equipped, an additional element will track its stacks as well:
+If Empowering Auras is equipped, an additional element will track its stacks as well. The icon will blink when the buff is under 3 seconds to remind you to reapply an aura, since it refreshes all stacks when you do:
 
 <img width="416" height="202" alt="image" src="https://github.com/user-attachments/assets/6efaf88b-a8b7-4974-8d34-b0e5c0e36b1b" />
 
